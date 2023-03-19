@@ -140,6 +140,11 @@
                     <input type="text" name="nome" id="nome" class="inputUser" required>
                     <label for="nome" class="labelInput">Nome completo</label>
                 </div>
+                <br>
+                <div class="inputBox">
+                    <input type="password" name="senha" id="senha" class="inputUser" required>
+                    <label for="senha" class="labelInput">Senha</label>
+                </div>
                 <br><br>
                 <div class="inputBox">
                     <input type="text" name="email" id="email" class="inputUser" required>
